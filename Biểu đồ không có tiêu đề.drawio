@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T15:36:13.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_8XFH1iBk2LsC4grFXLW" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T15:36:54.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-JLlHu8OaZ0tzHU-5leo" version="21.3.2" type="github">
   <diagram name="Trang-1" id="knjpKhg8sWJ3hfBEtHH8">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,22 +10,22 @@
             <mxPoint x="380" y="432" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-1" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Thể loại&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-1" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Thể loại&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Sản phẩm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-2" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Sản phẩm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Khách Hàng&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-4" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Khách Hàng&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-5" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-6" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Phản Hồi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-6" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Phản Hồi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="btXaHjkok7c6q4Emed-C-4" target="btXaHjkok7c6q4Emed-C-6">
+        <mxCell id="btXaHjkok7c6q4Emed-C-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="btXaHjkok7c6q4Emed-C-4" target="btXaHjkok7c6q4Emed-C-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="160" as="sourcePoint" />
             <mxPoint x="440" y="110" as="targetPoint" />
@@ -34,25 +34,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-9" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Hóa Đơn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-9" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Hóa Đơn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="btXaHjkok7c6q4Emed-C-9">
+        <mxCell id="btXaHjkok7c6q4Emed-C-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="btXaHjkok7c6q4Emed-C-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-12" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Chi tiết hóa đơn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-12" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Chi tiết hóa đơn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="btXaHjkok7c6q4Emed-C-2">
+        <mxCell id="btXaHjkok7c6q4Emed-C-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="btXaHjkok7c6q4Emed-C-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534" y="280" as="sourcePoint" />
             <mxPoint x="584" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="btXaHjkok7c6q4Emed-C-4" target="btXaHjkok7c6q4Emed-C-9">
+        <mxCell id="btXaHjkok7c6q4Emed-C-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="btXaHjkok7c6q4Emed-C-4" target="btXaHjkok7c6q4Emed-C-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
@@ -61,16 +61,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-15" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Thanh toán&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="btXaHjkok7c6q4Emed-C-15" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Thanh toán&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="btXaHjkok7c6q4Emed-C-9">
+        <mxCell id="btXaHjkok7c6q4Emed-C-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="btXaHjkok7c6q4Emed-C-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="340" as="sourcePoint" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btXaHjkok7c6q4Emed-C-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="btXaHjkok7c6q4Emed-C-1" target="btXaHjkok7c6q4Emed-C-2">
+        <mxCell id="btXaHjkok7c6q4Emed-C-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="btXaHjkok7c6q4Emed-C-1" target="btXaHjkok7c6q4Emed-C-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="300" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
